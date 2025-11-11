@@ -1,7 +1,7 @@
 # 🧩 Case Study: Automating Image Sorting for Webstore Production
 
 ### 🎯 The Problem
-Our hybrid web development and design team regularly receives large batches of product images — typically **150–200 at a time** — from the Sales department. These images are used for bulk product uploads to customer webstores.  
+Our hybrid web development and design team regularly receives large batches of product images (typically **150–200 at a time**) from the Sales department. These images are used for bulk product uploads to customer webstores.  
 
 Before automation, each batch had to be **manually reviewed and sorted by orientation** (portrait, landscape, or square). This process was tedious, time-consuming, and repetitive, consuming **several cumulative hours per week** that could have been spent on higher-value creative work.
 
@@ -10,7 +10,7 @@ Before automation, each batch had to be **manually reviewed and sorted by orient
 ### 💡 The Insight
 After sorting through multiple batches by hand, I realized that image orientation data was already embedded in the file metadata. That meant the process could be automated.  
 
-I decided to explore whether **PowerShell** could read these dimensions and sort files accordingly — saving our team time and frustration.
+I decided to explore whether **PowerShell** could read these dimensions and sort files accordingly,saving our team time and frustration.
 
 ---
 
