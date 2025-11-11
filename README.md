@@ -54,4 +54,4 @@ This project proved how small, well-targeted scripts can have an outsized impact
 ---
 
 ### 🔗 View the Code
-👉 [View the script on GitHub](https://github.com/Shernandez520/powershell-image-orientation-sorter)
+👉 [View the script on GitHub](https://github.com/Shernandez520/image-sorting-tool)
